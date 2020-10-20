@@ -1,6 +1,6 @@
 {
   "name": "ozitag",
-  "homepage": "/login",
+  "homepage": "https://whispering-earth-38307.herokuapp.com/login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
