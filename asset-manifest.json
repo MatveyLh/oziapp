@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/oziApp/static/css/main.3ba7431d.chunk.css",
-    "main.js": "/oziApp/static/js/main.1d3204e5.chunk.js",
-    "main.js.map": "/oziApp/static/js/main.1d3204e5.chunk.js.map",
-    "runtime-main.js": "/oziApp/static/js/runtime-main.0e9fbfdf.js",
-    "runtime-main.js.map": "/oziApp/static/js/runtime-main.0e9fbfdf.js.map",
-    "static/css/2.2a86faee.chunk.css": "/oziApp/static/css/2.2a86faee.chunk.css",
-    "static/js/2.f872c35d.chunk.js": "/oziApp/static/js/2.f872c35d.chunk.js",
-    "static/js/2.f872c35d.chunk.js.map": "/oziApp/static/js/2.f872c35d.chunk.js.map",
-    "index.html": "/oziApp/index.html",
-    "precache-manifest.5e83cba2dd7a577baac5a7055bb54b16.js": "/oziApp/precache-manifest.5e83cba2dd7a577baac5a7055bb54b16.js",
-    "service-worker.js": "/oziApp/service-worker.js",
-    "static/css/2.2a86faee.chunk.css.map": "/oziApp/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.3ba7431d.chunk.css.map": "/oziApp/static/css/main.3ba7431d.chunk.css.map",
-    "static/js/2.f872c35d.chunk.js.LICENSE.txt": "/oziApp/static/js/2.f872c35d.chunk.js.LICENSE.txt"
+    "main.css": "/oziapp/static/css/main.3ba7431d.chunk.css",
+    "main.js": "/oziapp/static/js/main.38b2206b.chunk.js",
+    "main.js.map": "/oziapp/static/js/main.38b2206b.chunk.js.map",
+    "runtime-main.js": "/oziapp/static/js/runtime-main.e57421d9.js",
+    "runtime-main.js.map": "/oziapp/static/js/runtime-main.e57421d9.js.map",
+    "static/css/2.2a86faee.chunk.css": "/oziapp/static/css/2.2a86faee.chunk.css",
+    "static/js/2.f872c35d.chunk.js": "/oziapp/static/js/2.f872c35d.chunk.js",
+    "static/js/2.f872c35d.chunk.js.map": "/oziapp/static/js/2.f872c35d.chunk.js.map",
+    "index.html": "/oziapp/index.html",
+    "precache-manifest.e13b6d8d5b2c2a7686cc3380d9d62379.js": "/oziapp/precache-manifest.e13b6d8d5b2c2a7686cc3380d9d62379.js",
+    "service-worker.js": "/oziapp/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/oziapp/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.3ba7431d.chunk.css.map": "/oziapp/static/css/main.3ba7431d.chunk.css.map",
+    "static/js/2.f872c35d.chunk.js.LICENSE.txt": "/oziapp/static/js/2.f872c35d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e9fbfdf.js",
+    "static/js/runtime-main.e57421d9.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.f872c35d.chunk.js",
     "static/css/main.3ba7431d.chunk.css",
-    "static/js/main.1d3204e5.chunk.js"
+    "static/js/main.38b2206b.chunk.js"
   ]
 }
