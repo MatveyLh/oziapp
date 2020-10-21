@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oziapp/static/css/main.11b3f17f.chunk.css",
+    "main.css": "/oziapp/static/css/main.8124996b.chunk.css",
     "main.js": "/oziapp/static/js/main.768aeb64.chunk.js",
     "main.js.map": "/oziapp/static/js/main.768aeb64.chunk.js.map",
     "runtime-main.js": "/oziapp/static/js/runtime-main.e57421d9.js",
@@ -9,17 +9,17 @@
     "static/js/2.f8ea3f12.chunk.js": "/oziapp/static/js/2.f8ea3f12.chunk.js",
     "static/js/2.f8ea3f12.chunk.js.map": "/oziapp/static/js/2.f8ea3f12.chunk.js.map",
     "index.html": "/oziapp/index.html",
-    "precache-manifest.f4e3c158e9af9939cdbb0a6418419dd6.js": "/oziapp/precache-manifest.f4e3c158e9af9939cdbb0a6418419dd6.js",
+    "precache-manifest.69eafb4371d0d17dbd5d4adc647ac7f2.js": "/oziapp/precache-manifest.69eafb4371d0d17dbd5d4adc647ac7f2.js",
     "service-worker.js": "/oziapp/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/oziapp/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.11b3f17f.chunk.css.map": "/oziapp/static/css/main.11b3f17f.chunk.css.map",
+    "static/css/main.8124996b.chunk.css.map": "/oziapp/static/css/main.8124996b.chunk.css.map",
     "static/js/2.f8ea3f12.chunk.js.LICENSE.txt": "/oziapp/static/js/2.f8ea3f12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e57421d9.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.f8ea3f12.chunk.js",
-    "static/css/main.11b3f17f.chunk.css",
+    "static/css/main.8124996b.chunk.css",
     "static/js/main.768aeb64.chunk.js"
   ]
 }
