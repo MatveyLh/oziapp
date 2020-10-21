@@ -9,7 +9,7 @@ import './App.css';
 const App = () => {
   return (
       <Router>
-        <Route path={'/'} component={(props: any) => <Login {...props}/>}/>
+        <Route path={'/oziapp'} component={(props: any) => <Login {...props}/>}/>
         <PrivateRoute component={() => <Profile/>} path={'/profile'}/>
       </Router>
   )
