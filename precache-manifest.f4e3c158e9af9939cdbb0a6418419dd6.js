@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31992295ba582cf349934aed8139f91a",
+    "revision": "99ddd8f7092343bfa6088e697dc9c9fc",
     "url": "/oziapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oziapp/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "29c2ce5a0569b71f1e6a",
-    "url": "/oziapp/static/css/main.faa77302.chunk.css"
+    "revision": "ea2c93a21fab85575630",
+    "url": "/oziapp/static/css/main.11b3f17f.chunk.css"
   },
   {
     "revision": "9c2912ae0e2c1041e4ed",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oziapp/static/js/2.f8ea3f12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29c2ce5a0569b71f1e6a",
-    "url": "/oziapp/static/js/main.d751b524.chunk.js"
+    "revision": "ea2c93a21fab85575630",
+    "url": "/oziapp/static/js/main.768aeb64.chunk.js"
   },
   {
     "revision": "8fff558125e375a748f2",
